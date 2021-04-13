@@ -1,5 +1,5 @@
 # Merge sorting
-> The program was prepared for the subject Technological Platforms. 
+> The application was prepared for the subject Technological Platforms. 
 
 ## Table of contents
 * [About The Project](#about-the-project)
