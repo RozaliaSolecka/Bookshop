@@ -1,4 +1,4 @@
-# Merge sorting
+# Bookshop
 > The application was prepared for the subject Technological Platforms. 
 
 ## Table of contents
