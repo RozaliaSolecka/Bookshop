@@ -22,7 +22,7 @@ and return data in JSON format.
 
 ## Getting Started
 Clone the repository  
-`git clone https://github.com/RozaliaSolecka/Bookshop.git
+`git clone https://github.com/RozaliaSolecka/Bookshop.git`
   
 Open project in your favourite IDE.   
   
